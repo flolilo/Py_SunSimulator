@@ -1,4 +1,4 @@
-# Python-SunSimulator
+# Py_SunSimulator
 A Python script that uses [Pyephem](http://rhodesmill.org/pyephem/) to turn an Raspberry Pi into an enhanced time switch
 
 ## Disclaimer
@@ -6,4 +6,4 @@ A Python script that uses [Pyephem](http://rhodesmill.org/pyephem/) to turn an R
 
 You have been warned. ;-)
 
-## [Please visit this project's Wiki-page for further information!](https://github.com/flolilo/Python-SunSimulator/wiki)
+## [Please visit this project's Wiki-page for further information!](https://github.com/flolilo/Py_SunSimulator/wiki)
